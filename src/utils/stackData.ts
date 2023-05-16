@@ -23,7 +23,10 @@ export const stackData = [
     title: "JS",
     img: FaJs,
   },
-  { title: "TypeScript", img: SiTypescript },
+  {     
+    title: "TypeScript",
+    img: SiTypescript
+  },
   {
     title: "Node JS",
     img: FaNode,
@@ -32,8 +35,8 @@ export const stackData = [
     title: "React",
     img: FaReact,
   },
-  { title: "Next.js", img: TbBrandNextjs },
-  { title: "Docker", img: FaDocker },
+  // { title: "Next.js", img: TbBrandNextjs },
+  // { title: "Docker", img: FaDocker },
   { title: "PostgreSQL", img: SiPostgresql },
   { title: "Git", img: FaGit },
   { title: "Python", img: FaPython },
